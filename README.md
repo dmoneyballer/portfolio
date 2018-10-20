@@ -1,1 +1,1 @@
-[Project link:] (https://dmoneyballer.github.io/portfolio-photo-grid/)
+Project link https://dmoneyballer.github.io/portfolio-photo-grid/
